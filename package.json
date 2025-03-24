@@ -1,0 +1,29 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lokesh",
+  "license": "ISC",
+  "description": "this is a web server",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokesh-2409/web-server.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongoose"
+  ],
+  "bugs": {
+    "url": "https://github.com/lokesh-2409/web-server/issues"
+  },
+  "homepage": "https://github.com/lokesh-2409/web-server#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.2"
+  }
+}
